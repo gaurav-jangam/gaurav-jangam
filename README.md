@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="left">
     <br/>
     <h2>About Me</h2>
-    <p>Hi, I am <a href="https://gauravjangam.com/" target="_blank">Sandesh Jangam</a>, I'm a ReactJS Developer. React Developer by Day,Freelancer by Night 🚀. Currently, I'm looking for job as react developer</p>
+    <p>Hi, I am <a href="https://gauravjangam.com/" target="_blank">Gaurav Jangam</a>, I'm a ReactJS Developer. React Developer by Day,Freelancer by Night 🚀. Currently, I'm looking for job as react developer</p>
     <p>Besides programming, I love to visit ancient temples and chilling at the beach.</p>
     <p></p>
 </div>
